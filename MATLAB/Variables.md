@@ -20,5 +20,8 @@ a=1:2:10 --> 2 is step value
 - `a\b` --> Means b divided by a   
 - `^` --> power operator  
 - `f=A.*B` --> Used for scalar multiplication of two matrices (each value in A multiplied with corresponding element in B)
-- 
+- `plus,minus,times,power` --> Predefined functions
+- `.*` - Individual element multiplication, useful for expressions with array inputs.
+
+---
 
